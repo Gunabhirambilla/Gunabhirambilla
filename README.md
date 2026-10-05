@@ -19,7 +19,7 @@ Other         dbt · Git · REST API ingestion · Excel/Word automation
 
 ### Currently
 
-- 🔧 Supporting connected-vehicle CRM and telemetry systems as a Connected Services Systems Engineer at GM OnStar
+- 🔧 Supporting connected-vehicle CRM and telemetry systems as a Data & Analytics Engineer at GM OnStar
 - 🏗️ Designing layered Snowflake architectures for multi-tenant healthcare analytics
 - ✍️ Writing technical essays on data modeling, pipelines, and governance ([12 published](https://gunabhirambilla.github.io/#articles))
 - 🎯 Open to senior data engineer roles — hybrid or remote
